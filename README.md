@@ -17,9 +17,11 @@ Input format:
 
 To compile executable, run 'make' command.
 
+```
 Usage: ./calculator "1 + 2 + 3"
 		6
 		./calculator "-3.3333333333333333333 + 8 * 2 - ((567/13) +5) * 13"
 		-619.330
 		./calculator "-5 + 8 - (3 * (17 / 13))"
 		-0.923
+```
