@@ -9,10 +9,13 @@ with 3 points presition) and '0' is returned.
 In case of an invalid input or calculation error the program returns '-1' and
 nothing is printed.
 
-Input format:
+# Input format:
 	- mathematical operators: '+', '-', '*', '/';
+
 	- parenthesis: '(' and ')';
+
 	- integer values (i.e. '3', '14', '159');
+
 	- fractional numbers (i.e. '3.14159');
 
 To compile executable, run 'make' command.
